@@ -66,3 +66,14 @@ Os clientes devem ser classificados em grupos de acordo com a probabilidade de d
 * **Código-fonte**: Scripts organizados e dependências via Poetry.
 
 * **README**: Definição da variável alvo e propostas de políticas de crédito.
+***
+
+# Próximos passos
+
+* Treinar modelos adversários, utilizando outras técnicas de agregação do histórico além de feature engineering para tentar melhorar o desempenho.
+* Melhorar a calibração do modelo.
+* Realizar uma extensa análise exploratória, junto com testes de hipóteses para obter mais conhecimento e com isso agregar novos insights para a modelagem.
+* Realizar uma limpeza mais adequada a dados ruidosos.
+* Tentar uma abordagem não supervisionada primeiro para entender comportamentos.
+* Reduzir overfitting.
+* Implementar um pipeline de MLOps.
