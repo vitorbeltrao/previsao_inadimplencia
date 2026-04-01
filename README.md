@@ -27,8 +27,6 @@ Siga a ordem abaixo para processar os dados e gerar os resultados:
 **Definição de Inadimplência**: Foi adotada a régua de atraso superior a 90 dias (norma BACEN) para definir o target.
 
 **Engenharia de Features**: Criação de variáveis de comportamento histórico e razões financeiras (LTV, Parcela/Renda) sem vazamento de dados.
-
-**Performance**: O modelo atingiu um AUC de 0.7823, permitindo um ranqueamento eficaz dos clientes por nível de risco.
 ***
 
 # Proposta de Política de Crédito
